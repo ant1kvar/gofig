@@ -17,7 +17,9 @@
 </p>
 
 ---
-![demo](https://github.com/user-attachments/assets/ebd22497-00be-4d17-a439-d4ab8f53dcbd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebd22497-00be-4d17-a439-d4ab8f53dcbd" width="800" />
+</p>
 ---
 ## Features
 
