@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"gofig"
+	"github.com/ant1kvar/gofig"
 )
 
 var colors = map[string]string{
